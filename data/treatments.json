@@ -1,0 +1,130 @@
+{
+    "diseases": [
+        {
+            "name": "Headache",
+            "treatments": [
+                {"name": "Peppermint Oil", "description": "Apply peppermint oil to the temples", "category": "Herbal"},
+                {"name": "Ginger Tea", "description": "Drink ginger tea", "category": "Herbal"}
+            ]
+        },
+        {
+            "name": "Insomnia",
+            "treatments": [
+                {"name": "Chamomile Tea", "description": "Drink chamomile tea before bed", "category": "Herbal"},
+                {"name": "Lavender Oil", "description": "Use lavender oil in a diffuser", "category": "Aromatherapy"}
+            ]
+        },
+        {
+            "name": "Anxiety",
+            "treatments": [
+                {"name": "Valerian Root", "description": "Take valerian root supplements", "category": "Herbal"},
+                {"name": "Deep Breathing Exercises", "description": "Practice deep breathing exercises", "category": "Mindfulness"}
+            ]
+        },
+        {
+            "name": "Cold",
+            "treatments": [
+                {"name": "Echinacea Tea", "description": "Drink echinacea tea", "category": "Herbal"},
+                {"name": "Honey and Lemon", "description": "Mix honey and lemon in warm water", "category": "Home Remedy"}
+            ]
+        },
+        {
+            "name": "Cough",
+            "treatments": [
+                {"name": "Thyme Tea", "description": "Drink thyme tea", "category": "Herbal"},
+                {"name": "Licorice Root", "description": "Take licorice root syrup", "category": "Herbal"}
+            ]
+        },
+        {
+            "name": "Digestive Issues",
+            "treatments": [
+                {"name": "Peppermint Tea", "description": "Drink peppermint tea", "category": "Herbal"},
+                {"name": "Ginger", "description": "Take ginger supplements or drink ginger tea", "category": "Herbal"}
+            ]
+        },
+        {
+            "name": "Muscle Pain",
+            "treatments": [
+                {"name": "Turmeric", "description": "Take turmeric supplements", "category": "Herbal"},
+                {"name": "Epsom Salt Bath", "description": "Take a bath with Epsom salt", "category": "Home Remedy"}
+            ]
+        },
+        {
+            "name": "Allergies",
+            "treatments": [
+                {"name": "Quercetin", "description": "Take quercetin supplements", "category": "Supplement"},
+                {"name": "Neti Pot", "description": "Use a neti pot to clear nasal passages", "category": "Home Remedy"}
+            ]
+        },
+        {
+            "name": "Stress",
+            "treatments": [
+                {"name": "Ashwagandha", "description": "Take ashwagandha supplements", "category": "Herbal"},
+                {"name": "Meditation", "description": "Practice daily meditation", "category": "Mindfulness"}
+            ]
+        },
+        {
+            "name": "Arthritis",
+            "treatments": [
+                {"name": "Boswellia", "description": "Take boswellia supplements", "category": "Herbal"},
+                {"name": "Acupuncture", "description": "Receive acupuncture treatments", "category": "Traditional Chinese Medicine"}
+            ]
+        },
+        {
+            "name": "Asthma",
+            "treatments": [
+                {"name": "Buteyko Breathing", "description": "Practice Buteyko breathing techniques", "category": "Mindfulness"},
+                {"name": "Magnesium Supplements", "description": "Take magnesium supplements", "category": "Supplement"}
+            ]
+        },
+        {
+            "name": "Back Pain",
+            "treatments": [
+                {"name": "Yoga", "description": "Practice yoga regularly", "category": "Exercise"},
+                {"name": "Capsaicin Cream", "description": "Apply capsaicin cream to affected area", "category": "Topical"}
+            ]
+        },
+        {
+            "name": "Depression",
+            "treatments": [
+                {"name": "St. John's Wort", "description": "Take St. John's Wort supplements", "category": "Herbal"},
+                {"name": "Omega-3 Fatty Acids", "description": "Take omega-3 supplements", "category": "Supplement"}
+            ]
+        },
+        {
+            "name": "High Blood Pressure",
+            "treatments": [
+                {"name": "Hibiscus Tea", "description": "Drink hibiscus tea", "category": "Herbal"},
+                {"name": "Garlic", "description": "Take garlic supplements", "category": "Herbal"}
+            ]
+        },
+        {
+            "name": "Skin Irritations",
+            "treatments": [
+                {"name": "Aloe Vera", "description": "Apply aloe vera gel", "category": "Topical"},
+                {"name": "Calendula Cream", "description": "Apply calendula cream", "category": "Topical"}
+            ]
+        },
+        {
+            "name": "Sinusitis",
+            "treatments": [
+                {"name": "Steam Inhalation", "description": "Inhale steam from hot water", "category": "Home Remedy"},
+                {"name": "Apple Cider Vinegar", "description": "Take apple cider vinegar in warm water", "category": "Home Remedy"}
+            ]
+        },
+        {
+            "name": "Diabetes",
+            "treatments": [
+                {"name": "Fenugreek", "description": "Take fenugreek supplements", "category": "Herbal"},
+                {"name": "Cinnamon", "description": "Take cinnamon supplements", "category": "Herbal"}
+            ]
+        },
+        {
+            "name": "Weight Loss",
+            "treatments": [
+                {"name": "Green Tea Extract", "description": "Take green tea extract supplements", "category": "Herbal"},
+                {"name": "Garcinia Cambogia", "description": "Take garcinia cambogia supplements", "category": "Herbal"}
+            ]
+        }
+    ]
+}
